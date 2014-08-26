@@ -1,0 +1,5 @@
+D:\Desarrollos .NET\Publicador\Publicador\bin\Debug\Publicador.exe
+D:\Desarrollos .NET\Publicador\Publicador\bin\Debug\Publicador.pdb
+D:\Desarrollos .NET\Publicador\Publicador\obj\Debug\Publicador.csprojResolveAssemblyReference.cache
+D:\Desarrollos .NET\Publicador\Publicador\obj\Debug\Publicador.exe
+D:\Desarrollos .NET\Publicador\Publicador\obj\Debug\Publicador.pdb
